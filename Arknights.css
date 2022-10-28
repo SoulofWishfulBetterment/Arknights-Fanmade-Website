@@ -375,6 +375,13 @@ abbr {
     }    
 }
 
+@media screen and (max-width:480px) {
+    .sample {
+        text-align: center;
+        margin-left: 45px;
+    }    
+}
+
 .info-box {
     background-color: #efeedb;
     border: 5px solid #e6e5c2;
