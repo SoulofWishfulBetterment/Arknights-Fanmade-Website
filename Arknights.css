@@ -76,7 +76,7 @@ h5 {
     text-align: center;
 }
 
-/*Banner Overlay*/
+/*Image and Video*/
 .image-banner {
     position: relative;
     top: none;
@@ -98,7 +98,11 @@ h5 {
 .banner-description p {
     color: white;
 }
-/*End of Banner Overlay*/
+
+video {
+    width: 570px;
+}
+/*End of Image and Video*/
 
 /*Site Navigation*/
 .site-nav {
