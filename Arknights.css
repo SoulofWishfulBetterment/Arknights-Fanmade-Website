@@ -370,6 +370,12 @@ abbr {
     }
 }
 
+@media screen and (max-width:480px) {
+    video {
+        width: 421px;
+    }    
+}
+
 .info-box {
     background-color: #efeedb;
     border: 5px solid #e6e5c2;
