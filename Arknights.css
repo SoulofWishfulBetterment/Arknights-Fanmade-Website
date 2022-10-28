@@ -359,8 +359,8 @@ abbr {
     .Operators {
         border-collapse: collapse;
         margin: 0;
-        font-size: 1em;
-        min-width: 130px;
+        font-size: 0.8em;
+        min-width: 100px;
     }
 
     .Operators img {
