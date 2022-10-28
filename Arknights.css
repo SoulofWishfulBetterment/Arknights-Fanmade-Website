@@ -360,12 +360,12 @@ abbr {
         border-collapse: collapse;
         margin: 0;
         font-size: 0.8em;
-        min-width: 100px;
+        min-width: 92px;
     }
 
     .Operators img {
-        width: 35px;
-        height: 35px;
+        width: 30px;
+        height: 30px;
     }
 }
 
