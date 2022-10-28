@@ -243,14 +243,14 @@ h5 a {
 /*Table (Operators)*/
 .Operators {
     border-collapse: collapse;
-    margin: 0px 0px;
-    font-size: 1.4em;
-    width: auto;
+    margin: 0;
+    font-size: 1.2em;
+    min-width: 600px;
 }
 
 .Operators img {
-    width: 140px;
-    height: 140px;
+    width: 150px;
+    height: 150px;
 }
 
 .Operators thead tr {
@@ -271,7 +271,7 @@ abbr {
 
 .Operators th,
 .Operators td {
-    padding: 5px 25px;
+    padding: 5px 15px;
     border: 1px solid mintcream;
 }
 
