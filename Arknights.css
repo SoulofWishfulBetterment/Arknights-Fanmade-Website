@@ -356,6 +356,20 @@ abbr {
     }
 }
 
+@media screen and (max-width:480px) {
+    .Operators {
+        border-collapse: collapse;
+        margin: 0;
+        font-size: 1em;
+        min-width: 150px;
+    }
+
+    .Operators img {
+        width: 50px;
+        height: 50px;
+    }
+}
+
 .info-box {
     background-color: #efeedb;
     border: 5px solid #e6e5c2;
