@@ -295,11 +295,6 @@ abbr {
     margin-right: 50px;
     display: block;
 }
-
-.OPList li:hover {
-    width: 5%;
-}
-
 /*Media Query*/
 @media screen and (mix-width:1300px) {
     .container {
